@@ -1,6 +1,6 @@
 {
   "name": "blogarticlepicture",
-  "version": "1.0.1",
+  "version": "1.0.7",
   "description": "博客文章详情图片",
   "main": "index.js",
   "scripts": {
